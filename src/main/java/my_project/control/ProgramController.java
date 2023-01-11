@@ -39,7 +39,7 @@ public class ProgramController {
         DuestereWolke wolke1 = new DuestereWolke(150,150, 20);
         viewController.draw(wolke1);
 
-        VerlasseneFabrik fabrik1 = new VerlasseneFabrik(300, 200);
+        VerlasseneFabrik fabrik1 = new VerlasseneFabrik(400, 300);
         viewController.draw(fabrik1);
 
     }
